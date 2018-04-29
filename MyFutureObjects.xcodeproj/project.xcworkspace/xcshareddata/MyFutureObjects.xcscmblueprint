@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "09333FAEE35D773B61B68BB6B84C8484A339A1A1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "09333FAEE35D773B61B68BB6B84C8484A339A1A1" : 9223372036854775807,
+    "D11A0ED525FA42A9DB074E3EF7263AB7808164B5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "76972F6A-1C21-4BDE-8F24-1F6487A78E5E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "09333FAEE35D773B61B68BB6B84C8484A339A1A1" : "MyFutureObjects\/",
+    "D11A0ED525FA42A9DB074E3EF7263AB7808164B5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyFutureObjects",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyFutureObjects.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bassyouni\/MyFutureObjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "09333FAEE35D773B61B68BB6B84C8484A339A1A1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bassyouni\/All-Projects-folder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D11A0ED525FA42A9DB074E3EF7263AB7808164B5"
+    }
+  ]
+}
